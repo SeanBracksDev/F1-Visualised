@@ -1,0 +1,10 @@
+Getting Started
+- Focus on the functionality:
+    1. API calls for F1 data.
+    2. Graphical representation of data (what libraries to use?)
+    3. Dynamic data selection & representation - e.g selecting multiple drivers, laps etc
+
+
+Future Improvements
+- Web App Design
+- Caching of data, instead of querying the API for the same thing multiple times
