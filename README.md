@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# F1-Visualised
+ReactJS project for visualising F1 data
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,6 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# F1-Visualised
-ReactJS project for visualising F1 data
->>>>>>> c1dc7f254be5ecf240044108c7dfc41876c66a4b
+
